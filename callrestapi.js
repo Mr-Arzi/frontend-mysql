@@ -12,7 +12,7 @@ function postUser(){
 	var myuser = {
 		name: myName,
 		email: myEmail,
-		aage: myAge,
+		age: myAge,
 		comments: myComments
 	};
 
